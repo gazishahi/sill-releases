@@ -2,5 +2,14 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Sill</title>
+    <item>
+      <title>Sill 0.1</title>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 30 Oct 2026 19:42:44 GMT</pubDate>
+      <description><![CDATA[<ul><li>A floating Liquid Glass bar that rests out of the way while you read and comes back when you need it</li><li>Spaces, folders, pinned tabs and kept tabs, with an Overview of everything you have open (pinch to see it)</li><li>Swipe between tabs, and swipe back and forward through a page's history (hold to pick from the list)</li><li>Spotlight for new tabs, plus Peek and Small Sill for links you only need for a moment</li><li>Split View, Air Traffic Control, multiple windows, profiles and private windows</li><li>Built-in ad and tracker blocking</li><li>Picture in Picture for videos and calls, and a floating audio player, controlled with pinch and two-finger gestures</li><li>Passwords: fill from a menu under the field (including sign-ins inside frames), strong passwords for new accounts, Touch ID, and import from a CSV</li><li>Sleeping tabs to keep memory low, and a hover card showing each tab's memory</li><li>Updates download quietly and install when you quit, or now with Relaunch</li></ul>]]></description>
+      <enclosure url="https://github.com/gazishahi/sill-releases/releases/download/v0.1/Sill-0.1.dmg" sparkle:edSignature="GceMzW8ku9rr97MJ3SDYvfvQYldd2DEz6fIuzKK52Ww4L3llRQNe4Ihmvai5IVMTR8aTwVIUQok/GMVMVDGwCw==" length="150433263" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
