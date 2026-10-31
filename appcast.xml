@@ -3,6 +3,15 @@
   <channel>
     <title>Sill</title>
     <item>
+      <title>Sill 0.2</title>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 31 Oct 2026 05:51:24 GMT</pubDate>
+      <description><![CDATA[<ul><li>Bring everything over from Arc: your spaces with their colours and icons, pinned tabs, folders, Today and history, in one go. Arc gets a sunset on its way out. File ▸ Import from Another Browser…</li><li>Bring your pinned tabs, folders and history over from Dia, into a space of their own.</li><li>A new first launch: Sill sets itself up with you at a window — bring your things, make your first space yours, and learn the gestures by trying them on your trackpad.</li><li>Gesture hints: when you do something the slow way, Sill shows you the gesture for it — switching tabs, spaces and folders, opening the Overview, and going back or forward.</li><li>Delete folders and spaces: right-click one in the Overview, or use the Spaces menu. A folder's tabs can stay, in Today.</li><li>A sweep of warm light rises through the window when Sill opens onto an empty space.</li></ul>]]></description>
+      <enclosure url="https://github.com/gazishahi/sill-releases/releases/download/v0.2/Sill-0.2.dmg" sparkle:edSignature="rmMfkJNhEYTsKgQn+E1xOvTnDkNGvtmN+/JZP2KbcIEQlTc0mT3+tjHQQSx2j0b93rFpa7kobkVZojRVaAxODg==" length="150668344" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Sill 0.1</title>
       <sparkle:version>19</sparkle:version>
       <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
