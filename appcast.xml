@@ -3,6 +3,15 @@
   <channel>
     <title>Sill</title>
     <item>
+      <title>Sill 0.3</title>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 02 Nov 2026 23:46:31 GMT</pubDate>
+      <description><![CDATA[<ul><li>Chrome extensions: install them from the Chrome Web Store, pin them to the bar, and open their menus from the address field</li><li>Your tabs, sign-ins and site data come along to the new engine the first time Sill opens</li><li>A new app icon: the bird on teal glass</li><li>Onboarding redrawn in pixels: a meadow out of the window, a robin on the sill, and a new lesson for switching folders and spaces</li></ul>]]></description>
+      <enclosure url="https://github.com/gazishahi/sill-releases/releases/download/v0.3/Sill-0.3.dmg" sparkle:edSignature="KYlfUIuCd8ULijJwlEvYrCrrY8Jc3Cgzy5Jn5bnNcXoMR60GrJODHxqLid7O2XiyJ7Kh3dU2i8EZuZ7mU/FuBQ==" length="171158903" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Sill 0.2</title>
       <sparkle:version>22</sparkle:version>
       <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
