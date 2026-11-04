@@ -3,6 +3,15 @@
   <channel>
     <title>Sill</title>
     <item>
+      <title>Sill 0.3.1</title>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 04 Nov 2026 00:20:14 GMT</pubDate>
+      <description><![CDATA[<ul><li>Fixes a crash when pressing ⌘ or another modifier key while a page has focus</li></ul>]]></description>
+      <enclosure url="https://github.com/gazishahi/sill-releases/releases/download/v0.3.1/Sill-0.3.1.dmg" sparkle:edSignature="2dYHvHNeJyL6VmIzikIuq8+E42XfNXv8pFvgOmR3gGKtYkoHRlm4CkkuJVPG+do4MCqZ/XyX1Wo/cpvUJXujAA==" length="171158887" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Sill 0.3</title>
       <sparkle:version>29</sparkle:version>
       <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
