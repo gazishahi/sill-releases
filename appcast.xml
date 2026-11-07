@@ -3,6 +3,15 @@
   <channel>
     <title>Sill</title>
     <item>
+      <title>Sill 0.3.3</title>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 07 Nov 2026 20:07:25 GMT</pubDate>
+      <description><![CDATA[<ul><li>Right-clicking a page shows its menu again</li><li>Pinned tabs that don't fit the bar fold into a "+N" chip instead of covering the navigation</li><li>Picture in Picture shows the video instead of a black window</li><li>The floating player shows just the video, without the rest of the page around it</li></ul>]]></description>
+      <enclosure url="https://github.com/gazishahi/sill-releases/releases/download/v0.3.3/Sill-0.3.3.dmg" sparkle:edSignature="stdjI7uzoTIpvDr97ynbinlsdrVZ+hGKW6Ey2oR+jr8/WSa6J+im8LakXW7dYgbBF9jLTv6cY3ka94gSrah5CA==" length="171231229" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Sill 0.3.2</title>
       <sparkle:version>34</sparkle:version>
       <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
