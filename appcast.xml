@@ -3,6 +3,15 @@
   <channel>
     <title>Sill</title>
     <item>
+      <title>Sill 0.3.4</title>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 12 Nov 2026 20:48:29 GMT</pubDate>
+      <description><![CDATA[<ul><li>A new icon: curtains parted over the sill</li></ul>]]></description>
+      <enclosure url="https://github.com/gazishahi/sill-releases/releases/download/v0.3.4/Sill-0.3.4.dmg" sparkle:edSignature="FN7A8NMyYWfJ/0tERVb+GrHo8Xw4Cbt+me33g+3eRy1tFSrrfo9WK5vYRmoWfCu+TvGdCTkhPFPf7OU2yfJXCQ==" length="169488456" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Sill 0.3.3</title>
       <sparkle:version>37</sparkle:version>
       <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
