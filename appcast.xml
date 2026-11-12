@@ -3,6 +3,15 @@
   <channel>
     <title>Sill</title>
     <item>
+      <title>Sill 0.3.5</title>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 12 Nov 2026 23:54:37 GMT</pubDate>
+      <description><![CDATA[<ul><li>Middle-click a tab to close it, in the tab strip and the Overview</li><li>Double-click the traffic-light pill to zoom the window, as you would a title bar</li><li>Sill now notes which tabs open just after launch, to track down tabs appearing twice after reopening</li></ul>]]></description>
+      <enclosure url="https://github.com/gazishahi/sill-releases/releases/download/v0.3.5/Sill-0.3.5.dmg" sparkle:edSignature="RN36TX0Zur3XqLNLjberjkE/QO9v26oebO6gsdy4lVaRayGcq3CPvTeevlwgGxY/Dc1OOWgE3vT1rZ7TmOLMCQ==" length="169482854" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Sill 0.3.4</title>
       <sparkle:version>40</sparkle:version>
       <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
