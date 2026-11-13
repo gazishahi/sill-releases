@@ -3,6 +3,15 @@
   <channel>
     <title>Sill</title>
     <item>
+      <title>Sill 0.3.8</title>
+      <sparkle:version>49</sparkle:version>
+      <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 13 Nov 2026 04:08:46 GMT</pubDate>
+      <description><![CDATA[<ul><li>Site details: click the lock in the address bar to see if the connection is secure, change what the site may use, reset its zoom, and clear its cookies and data</li><li>Choose your search engine in Settings: Google, DuckDuckGo, Bing, Brave Search, Ecosia, Kagi or Startpage</li><li>A refreshed icon: the curtains parted wider over the sill</li></ul>]]></description>
+      <enclosure url="https://github.com/gazishahi/sill-releases/releases/download/v0.3.8/Sill-0.3.8.dmg" sparkle:edSignature="79VCjj7lwhz0Odnh9COUM9U8kfQ2ppXh+UpyeaJlbTQckQ7ti8hwlulqACtEUp1531D3DF+CJxWQeDtDuDnTAw==" length="169880306" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Sill 0.3.7</title>
       <sparkle:version>46</sparkle:version>
       <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
