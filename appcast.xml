@@ -3,6 +3,15 @@
   <channel>
     <title>Sill</title>
     <item>
+      <title>Sill 0.3.10</title>
+      <sparkle:version>53</sparkle:version>
+      <sparkle:shortVersionString>0.3.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 13 Nov 2026 05:04:43 GMT</pubDate>
+      <description><![CDATA[<ul><li>Reader: the article alone, in clean type, without the rest of the page. Click the page icon in the address bar or press ⌥⌘R</li></ul>]]></description>
+      <enclosure url="https://github.com/gazishahi/sill-releases/releases/download/v0.3.10/Sill-0.3.10.dmg" sparkle:edSignature="uOWxeHXLptNrvMRiChIwVTd4RJJDd3Ji+zpH6oGSHhI9HX+TBHHow5uH6J+lDltlSDj/uMzPSIVuGRlp3wUfAg==" length="169967901" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Sill 0.3.9</title>
       <sparkle:version>51</sparkle:version>
       <sparkle:shortVersionString>0.3.9</sparkle:shortVersionString>
