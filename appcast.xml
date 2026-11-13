@@ -3,6 +3,15 @@
   <channel>
     <title>Sill</title>
     <item>
+      <title>Sill 0.3.9</title>
+      <sparkle:version>51</sparkle:version>
+      <sparkle:shortVersionString>0.3.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 13 Nov 2026 04:40:03 GMT</pubDate>
+      <description><![CDATA[<ul><li>Fixes tabs sometimes appearing twice after quitting and reopening Sill</li></ul>]]></description>
+      <enclosure url="https://github.com/gazishahi/sill-releases/releases/download/v0.3.9/Sill-0.3.9.dmg" sparkle:edSignature="UjOifbm2hTUUfWBo5jwtxUWwuxtInO4DYI28iJFxcAMsZBjg9HeTHUeLl3o5fB5j8bH6sGbLbQsnYPh77skcAA==" length="169876328" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Sill 0.3.8</title>
       <sparkle:version>49</sparkle:version>
       <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
