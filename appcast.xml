@@ -3,6 +3,15 @@
   <channel>
     <title>Sill</title>
     <item>
+      <title>Sill 0.3.12</title>
+      <sparkle:version>58</sparkle:version>
+      <sparkle:shortVersionString>0.3.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 13 Nov 2026 20:29:24 GMT</pubDate>
+      <description><![CDATA[<ul><li>Sites on your own Mac (localhost and the like) show their own icons: each port its own, updated when you reload</li><li>The update notice no longer cuts off its words</li></ul>]]></description>
+      <enclosure url="https://github.com/gazishahi/sill-releases/releases/download/v0.3.12/Sill-0.3.12.dmg" sparkle:edSignature="616X39a5NBVEWL0vpFAeNPsrFmECM8jPCBrivioeObOjDbgzV+X8rWEAWvxb+DgbIGGWPlRFMoRIZ549cCLzBw==" length="169930684" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Sill 0.3.11</title>
       <sparkle:version>55</sparkle:version>
       <sparkle:shortVersionString>0.3.11</sparkle:shortVersionString>
