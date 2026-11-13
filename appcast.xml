@@ -3,6 +3,15 @@
   <channel>
     <title>Sill</title>
     <item>
+      <title>Sill 0.3.7</title>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 13 Nov 2026 01:53:04 GMT</pubDate>
+      <description><![CDATA[<ul><li>A new print sheet: see the pages before you print, choose a printer or save as PDF, and set layout, paper, margins, scale, headers and footers</li><li>Print opens from ⌘P, File ▸ Print…, or a page's own Print button</li></ul>]]></description>
+      <enclosure url="https://github.com/gazishahi/sill-releases/releases/download/v0.3.7/Sill-0.3.7.dmg" sparkle:edSignature="L9IBhxgjYrM6xtzcNMrNVBSocujaruTWs7IcaMA9aWYa98r5gugnQiUu4vvAAfr4dIDJGqHkqgwSLrqZYQBtBw==" length="169478030" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Sill 0.3.6</title>
       <sparkle:version>45</sparkle:version>
       <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
