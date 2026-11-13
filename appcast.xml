@@ -3,6 +3,15 @@
   <channel>
     <title>Sill</title>
     <item>
+      <title>Sill 0.3.11</title>
+      <sparkle:version>55</sparkle:version>
+      <sparkle:shortVersionString>0.3.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 13 Nov 2026 05:44:45 GMT</pubDate>
+      <description><![CDATA[<ul><li>Import from Chrome, Brave, Edge, Vivaldi, Helium and Chromium: bookmarks become a space of their own with folders and pinned tabs, and your history comes too</li><li>File ▸ Import from Another Browser lists every browser with something to bring</li></ul>]]></description>
+      <enclosure url="https://github.com/gazishahi/sill-releases/releases/download/v0.3.11/Sill-0.3.11.dmg" sparkle:edSignature="6do/u7S+slsf3Yah7vi1gF8JQ+Y4o/jPQWF3C+2DAmBCIxu0iap1y/lsMNsDjqa4fEgRO2MJAj/UZLFTQ9NZAw==" length="169954718" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Sill 0.3.10</title>
       <sparkle:version>53</sparkle:version>
       <sparkle:shortVersionString>0.3.10</sparkle:shortVersionString>
